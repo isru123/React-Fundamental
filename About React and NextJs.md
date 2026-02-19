@@ -1,3 +1,4 @@
+# About React and NextJs
 Next.js is a flexible React framework that gives you building blocks to create fast, full-stack web applications.
 
 But what exactly do we mean by this? Let's spend some time expanding on what React and Next.js are and how they can help you build web applications.
